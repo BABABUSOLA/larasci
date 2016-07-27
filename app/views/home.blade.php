@@ -87,7 +87,7 @@
                         <div class="fh5co-feature-text">
                             <h3>Members Directory</h3>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-                            <p><a href="#">Learn more</a></p>
+                            <p><a href="https://github.com/sci-talents/larasci">Learn more</a></p>
                         </div>
                     </div>
                     <div class="fh5co-feature no-border">
@@ -97,7 +97,7 @@
                         <div class="fh5co-feature-text">
                             <h3>User Authentication</h3>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-                            <p><a href="#">Learn more</a></p>
+                            <p><a href="https://github.com/sci-talents/larasci">Learn more</a></p>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                         <div class="fh5co-feature-text">
                             <h3>User Registration</h3>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-                            <p><a href="#">Learn more</a></p>
+                            <p><a href="https://github.com/sci-talents/larasci">Learn more</a></p>
                         </div>
                     </div>
                     <div class="fh5co-feature no-border">
@@ -119,7 +119,7 @@
                         <div class="fh5co-feature-text">
                             <h3>24/7 Support</h3>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-                            <p><a href="#">Learn more</a></p>
+                            <p><a href="https://github.com/sci-talents/larasci">Learn more</a></p>
                         </div>
                     </div>
                 </div>

@@ -21,8 +21,13 @@ Route::group(['before' => 'auth'], function(){
 Route::get('login', 'UsersController@login');
 Route::get('register', 'UsersController@register');
 Route::post('register', 'UsersController@store');
-Route::post('login', 'UsersController@authenticate');
 Route::get('logout', 'UsersController@logout');
+Route::post('login', 'UsersController@authenticate');
+Route::get('contact', 'PagesController@contact');
+Route::post('contact', 'PagesController@postContact');
+
+//todo: create route to view user profiles
+Route::get('profile/{user}', 'UsersController@viewProfile');
 
 //password reset routes
 Route::group(['prefix' => 'password'], function(){

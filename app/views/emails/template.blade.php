@@ -17,7 +17,7 @@
                 <p><br /> 
 
                     <b>Cheerfully Yours,</b><br />
-                    {{ $hCompany }}<br /> 
+                    {{ $companyName }}<br /> 
                 </p><br />
             </div>
         </div>
